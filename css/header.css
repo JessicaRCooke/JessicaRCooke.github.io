@@ -1,0 +1,9 @@
+.jumbotron {
+    
+    background-image: url(/assets/flower.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'EB Garamond', serif;
+    color: whitesmoke;
+    margin-left: auto;

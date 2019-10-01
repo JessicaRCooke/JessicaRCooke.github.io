@@ -1,0 +1,33 @@
+body {
+    background-color:#2f2f33;
+}
+.nav {
+    background-color: black;
+    font-family: 'EB Garamond', serif;
+    color: whitesmoke;
+}
+.row {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'EB Garamond', serif;
+}
+
+.containerTwo {
+    width: 100vw;
+    height: 40vh;
+    background-color: black;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Inconsolata', monospace;
+    margin: auto; 
+    
+}
+h2 {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'EB Garamond', serif;
+}
+
+.col-4 {
+    font-family: 
+}

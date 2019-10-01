@@ -1,0 +1,11 @@
+.nav {
+    background-color: rgb(247, 246, 231);
+    color: black;
+
+}
+a:link {
+    color: whitesmoke;
+}
+a:visited {
+    color: whitesmoke;
+}
