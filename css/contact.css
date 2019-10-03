@@ -5,4 +5,10 @@
     background-color: rgba(186, 187, 173, 0.45);
     color: whitesmoke;
     font-family: 'GB Garamond', serif;
+    letter-spacing: .1em;
+    
+    
+}
+.text-center {
+    font-size: 40px;
 }
