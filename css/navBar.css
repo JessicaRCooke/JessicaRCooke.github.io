@@ -1,11 +1,7 @@
-.nav {
-    background-color: rgb(247, 246, 231);
-    color: black;
-
-}
-a:link {
+a {
     color: whitesmoke;
-}
-a:visited {
+    font-family: 'GB Garramond', serif;
+} 
+a :hover {
     color: whitesmoke;
 }

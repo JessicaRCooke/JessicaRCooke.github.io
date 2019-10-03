@@ -1,14 +1,8 @@
-#contact {
-    background: var(--black);
-    padding-bottom: 3em;
-}
-
-h2 {
+.contact {
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(186, 187, 173, 0.45);
     color: whitesmoke;
-}
-
-.text-center button {
-    background-color: whitesmoke;
-    font-color: var(--black);
-
+    font-family: 'GB Garamond', serif;
 }

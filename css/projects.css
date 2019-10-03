@@ -1,0 +1,19 @@
+.row {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'EB Garamond', serif;
+}
+.col-4 {
+    font-family: 'EB Garamond', serif;
+    
+    
+}
+.projects {
+    text-align: center;
+    width: 100vw;
+    height: 80vh;
+    background-color: rgba(186, 187, 173, 0.45);
+    color: whitesmoke;
+    font-family: 'GB Garramond', serif;
+    line-height: 2em;
+}
