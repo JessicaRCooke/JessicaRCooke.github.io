@@ -23,7 +23,7 @@ h3 {
     
 }
 
-.name {
+.name { 
     text-align: center;
     width: 100vw;
     height: 90vh;
@@ -41,18 +41,44 @@ h3 {
 .about {
         text-align: center;
         width: 100vw;
-        height: 50vh;
+        height: 90vh;
         background-color: rgba(167, 167, 154, 0.5);
         text-anchor: middle;
         font-family: 'GB Garramond', serif;
         color: white;
         display: inline-block;
-        padding-left: 100px;
-        padding-right: 100px;
-        padding-top: 100px;
-        font-size: 20px;
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-top: 7em;
+        font-size: 23px;
+        line-height: 1.5em;
 
         
+}
+.about-container {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    background: transparent;
+    padding-top: 60px;
+
+}
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-align: center;
+    width: 90vw;
+    height: 90vh;
+    background-color: transparent;
+    text-anchor: middle;
+    font-family: 'GB Garramond', serif;
+    color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 100px;
+    font-size: 20px;
+    
 }
    
  img:hover {

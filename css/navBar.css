@@ -5,3 +5,7 @@ a {
 a :hover {
     color: whitesmoke;
 }
+
+nav-item :hover {
+    color: whitesmoke;
+}

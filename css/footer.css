@@ -1,8 +1,12 @@
 footer {
-    display: inline-block;
+    display: flex;
     font-family: 'EB Garamond', serif;
     color: darkgrey;
-    text-align: center;
+    justify-content: space-evenly;
+    height: 5em;
+    padding: .5em;
     
 
 }
+
+
