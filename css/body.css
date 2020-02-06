@@ -13,7 +13,6 @@ body {
     
 
 }
-
 .parallaxLayer {
     
     background: none;
@@ -95,32 +94,11 @@ h3 {
     font-size: 20px;
     
 }
-
-
- .projectImage:hover  {
-    opacity: .5;
-   
-}
-
-
-.text {
-    color: white;
-    font-size: 20px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    text-align: center;
-  }
-
 .separator {
     width: 100vw;
     height: 30vh;
     background: none;
 }
-
 .resumeLink:hover {
         color: white;
         text-shadow: .07rem .07rem .14rem rgb(184, 172, 172);
