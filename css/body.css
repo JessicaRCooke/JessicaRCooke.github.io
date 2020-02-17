@@ -1,35 +1,40 @@
 body {
     background: none;
-    
+
 
 
 }
+
 .parallax {
     background-image: url('/assets/Flower.jpg');
     background-position: center;
     background-size: cover;
     width: 100vw;
     background-attachment: fixed;
-    
+
 
 }
+
 .parallaxLayer {
-    
+
     background: none;
 }
+
 h3 {
     font-size: 66px;
     line-height: 2em;
-    
+
 }
+
 .display-4 {
     font-size: 3rem;
 }
-.jumbotron { 
+
+.jumbotron {
     text-align: center;
     width: 100vw;
     height: 90vh;
-    background-color: rgba(134, 133, 129, 0.5);
+    background-color: rgba(161, 160, 153, 0.55);
     color: white;
     font-family: 'GB Garramond', serif;
     display: inline-block;
@@ -40,23 +45,25 @@ h3 {
     letter-spacing: .25em;
     transition: 2s ease;
 }
-.about {
-        text-align: center;
-        width: 100vw;
-        height: 90vh;
-        background-color: rgba(167, 167, 154, 0.5);
-        text-anchor: middle;
-        font-family: 'GB Garramond', serif;
-        color: white;
-        display: inline-block;
-        padding-left: 2em;
-        padding-right: 2em;
-        padding-top: 7em;
-        font-size: 23px;
-        line-height: 1.5em;
 
-        
+.about {
+    text-align: center;
+    width: 100vw;
+    height: 90vh;
+    background-color: rgba(203, 226, 230, 0.5);
+    text-anchor: middle;
+    font-family: 'GB Garramond', serif;
+    color: white;
+    display: inline-block;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 7em;
+    font-size: 23px;
+    line-height: 1.5em;
+
+
 }
+
 .lead {
     text-align: center;
     text-anchor: middle;
@@ -68,10 +75,11 @@ h3 {
     padding-left: 0rem;
     padding-right: 0rem;
     padding-top: 2em;
-        
-    
+
+
 
 }
+
 .about-container {
     display: flex;
     align-content: center;
@@ -80,27 +88,30 @@ h3 {
     padding-top: 60px;
 
 }
+
 .flex-container {
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
     text-align: center;
-   
+
     background-color: transparent;
     text-anchor: middle;
     font-family: 'GB Garramond', serif;
     color: white;
-   
+
     font-size: 20px;
-    
+
 }
+
 .separator {
     width: 100vw;
     height: 30vh;
     background: none;
 }
+
 .resumeLink:hover {
-        color: white;
-        text-shadow: .07rem .07rem .14rem rgb(184, 172, 172);
-    
+    color: white;
+    text-shadow: .07rem .07rem .14rem rgb(184, 172, 172);
+
 }

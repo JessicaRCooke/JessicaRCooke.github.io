@@ -1,14 +1,15 @@
 .contact {
     text-align: center;
-  
+
     height: 100vh;
-    background-color: rgba(134, 133, 129, 0.5);
+    background-color: rgba(161, 160, 153, 0.55);
     color: whitesmoke;
     font-family: 'GB Garamond', serif;
     letter-spacing: .1em;
-    
-    
+
+
 }
+
 .text-center {
     font-size: 40px;
 }
