@@ -38,7 +38,7 @@ h3 {
     color: white;
     font-family: 'GB Garramond', serif;
     display: inline-block;
-    padding-left: 1rem;
+    padding-left: 1em;
     padding-right: 1rem;
     padding-top: 6rem;
     font-size: 25px;
@@ -115,3 +115,4 @@ h3 {
     text-shadow: .07rem .07rem .14rem rgb(184, 172, 172);
 
 }
+
